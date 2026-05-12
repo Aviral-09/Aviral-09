@@ -1,68 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aviral</h1>
-<h3 align="center">Aspiring Data Analyst | Python Enthusiast | SQL • BI • Web Development</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aviral&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building AI-powered SaaS applications & backend systems&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Aviral+👋;Full Stack Developer" alt="Typing SVG"/>
+</div>
 
----
+## ⌨️ About Me
 
-## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aviral-64702a291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aviral-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building%20AI-powered%20SaaS%20applications%20%26%20backend%20systems" alt="Typing SVG" />
   </a>
 </p>
 
----
+## 🤝 Connect with me
 
-## 🛠️ Skills & Tech Stack
-
-### **Programming & Data**
-- 🐍 Python  
-- 📊 Data Analysis  
-- 🗄️ SQL  
-
-### **Business Intelligence Tools**
-- 🔷 Power BI  
-- 📈 Tableau  
-
-### **Development**
-- 🌐 Web Development  
-- 🧰 Git & GitHub  
-
----
-
-## 📌 About Me
-- 🎓 Passionate about **Data Analytics & Visualization**  
-- 📚 Always learning new technologies to grow in the data domain  
-- 🚀 Interested in building **interactive dashboards** and **data-driven applications**  
-
----
+<p align="center">
+    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviral-09)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://x.com/Aviral_ashu , https://www.linkedin.com/in/aviral1409/ , https://portfolio-lime-xi-a3xrobg1mq.vercel.app)
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aviral-09&show_icons=true&theme=tokyonight" alt="Aviral stats" />
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Aviral-09&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Aviral-09&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
+
+## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-09&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Aviral-09&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
----
+## 🔥 Streak
 
-## 🚀 Let's Build Something Amazing!
-If you're working on something exciting in **data, analytics, or development**, feel free to connect or collaborate!
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aviral-09&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
 
+## 🏆 Trophies
 
-<!--
-**Aviral-09/Aviral-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aviral-09&theme=nord&no-frame=true&row=2&column=4"/>
+</p>
 
-Here are some ideas to get you started:
+## 📈 Activity Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Aviral-09">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-09&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
+
+## 🚀 Featured Projects
+
+- **[Hybrid-Risk-Intelligence-System](https://github.com/Aviral-09/Hybrid-Risk-Intelligence-System)** — YOUR_PROJECT_1_DESC
+- **[School-Billing-System](YOUR_PROJECT_2_DEMO)** — YOUR_PROJECT_2_DESC
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
