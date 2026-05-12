@@ -44,14 +44,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Aviral-09&theme=nord&no-frame=true&row=2&column=4"/>
 </p>
 
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Aviral-09">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-09&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
-
 ## 🚀 Featured Projects
 
 - **[Hybrid-Risk-Intelligence-System](https://github.com/Aviral-09/Hybrid-Risk-Intelligence-System)** — YOUR_PROJECT_1_DESC
