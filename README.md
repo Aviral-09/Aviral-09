@@ -11,14 +11,6 @@
   </a>
 </p>
 
-## 🤝 Connect with me
-
-<p align="center">
-    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviral-09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://x.com/Aviral_ashu , https://www.linkedin.com/in/aviral1409/ , https://portfolio-lime-xi-a3xrobg1mq.vercel.app)
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
